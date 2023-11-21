@@ -57,3 +57,7 @@ add_readme_rmd(type = "compendium")
 rmarkdown::render("README.Rmd")
 
 
+rcompendium::add_to_gitignore()
+
+
+### Test toto git commit
